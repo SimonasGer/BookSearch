@@ -1,6 +1,7 @@
 const template = () => {
     return `
     <img>
+    <h2 id="heart">&#x2665;</h2>
     <p class="mt-5" id="movieTitle">Title: </p>
     <p id="movieDate">Release date: </p>
     <p id="movieGenre">Genre: </p>
